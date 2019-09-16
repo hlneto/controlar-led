@@ -1,10 +1,10 @@
-# Intensidade do LED com potenciômetro
+# Controle do LED com interruptor
 
 ## Resumo do projeto:
-*Este projeto em Arduíno tem como proposito mostrar o uso do potenciômetro em conjunto com um LED. A ideia é controlar a intensidade do LED através do potenciômetro.*
+*Este projeto em Arduíno tem como proposito mostrar o uso do interruptor em conjunto com um LED. A ideia é controlar o LED através do interruptor.*
 
 ## Montagem do circuito:
-![Intensidade do LED com potenciômetro ](https://user-images.githubusercontent.com/40145166/64928024-d0625300-d7e8-11e9-9bc7-88bd8e4070d4.png)
+![Intensidade do LED com interruptor ](https://user-images.githubusercontent.com/40145166/64931881-b0935500-d811-11e9-8646-28bfa42caddf.png)
 
 ### Links:
 [TINKERCAD](https://www.tinkercad.com/embed/kaNZ216DwVQ)
