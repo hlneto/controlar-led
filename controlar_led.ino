@@ -1,13 +1,13 @@
-const int ENTRADA = A5;
-const int LED = 12;
+const int INTERRUPTOR = A5;
+const int LEDAZUL = 4;
 
 void setup() {
-  pinMode(ENTRADA, INPUT);
-  pinMode(LED, OUTPUT);
+  pinMode(INTERRUPTOR, INPUT);
+  pinMode(LEDAZUL, OUTPUT);
 }
 
 void loop() {
-  int valorLido = analogRead(ENTRADA);
-  analogWrite(LED, valorLido / 2);
+  int leitura = analogRead(INTERRUPTOR);
+  analogWrite(LEDAZUL, leitura/2);
   delay(100);
 }
